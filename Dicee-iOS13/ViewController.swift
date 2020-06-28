@@ -3,9 +3,10 @@
 //  Dicee-iOS13
 //
 //  Created by Angela Yu on 11/06/2019.
+//  Edited by Fernando Bermudez on June 28, 2020
 //  Copyright © 2019 London App Brewery. All rights reserved.
+//  Copyright © 2020 bermedDev. All rights reserved.
 //
-
 import UIKit
 
 class ViewController: UIViewController {
